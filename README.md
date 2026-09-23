@@ -4,7 +4,8 @@ A draft and lineup plan for a team in a women's alternate-shot golf league, buil
 
 ## How I thought about it
 
-The end goal is to draft ten players. So we can start from that decision and work backwards.
+The final goal is to draft ten players. So we can start from that decision and work backwards.
+
 
 To draft well, we need to know how good each player really is, not her seed. Partners take turns hitting one ball, so we also need to know what (which type of hitting) each player is good at: driving, approach, or putting. And single rounds are noisy, so we need to separate skill from luck.
 
